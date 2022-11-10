@@ -1,7 +1,22 @@
 {
-    "name": "Felipe Romão (FeliperRomao-Dev",
+    "name": "Felipe Romão (FeliperRomao-Dev)",
     "job": "Software Developer",
     "github": "FelipeRomao-Dev",
+    "bg": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80",
+      "favorites":{
+      "canais":[
+        {
+            "perfil": "https://yt3.ggpht.com/xqhIoXspeX7eqouJvNHl1xqpv9213Pl26ENZbuouXxO2RlDadjsveNXfgnj8GTUk7thFYUkVRg=s176-c-k-c0x00ffffff-no-rj-mo",
+            "url": "https://www.youtube.com/c/Alura",
+            "tag": "@Alura"
+        },
+        {
+            "perfil": "https://yt3.ggpht.com/xqhIoXspeX7eqouJvNHl1xqpv9213Pl26ENZbuouXxO2RlDadjsveNXfgnj8GTUk7thFYUkVRg=s176-c-k-c0x00ffffff-no-rj-mo",
+            "url": "https://www.youtube.com/c/Alura",
+            "tag": "@Alura"
+        }
+      ]
+   },
     "playlists": {
       "jogos": [
         {
